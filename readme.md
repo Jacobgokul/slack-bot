@@ -45,7 +45,7 @@ Slack Bot is an AI-powered chatbot application developed using FastAPI. It integ
     SLACK_WEBHOOK_URL=your_slack_webhook_url
     ```
 
-    recommended openai models are gpt-4o, gpt-4-turbo (due to high context window size recommending gpt-4 models), gpt-3.5-turbo-0125.
+    recommended openai models are gpt-4o, gpt-4-turbo, gpt-3.5-turbo-0125.
 
 ### Running the Application
 
